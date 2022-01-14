@@ -13,6 +13,7 @@ $ pip2 install mechanize
 $ pip2 install requests
 
 $ git clone https://github.com/MAHADI-143/FRIEND-CHECK
+
 $ ls
 
 $ cd FRIEND-CHECK
