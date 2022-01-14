@@ -23,7 +23,7 @@ $ ls
 $ python2 Mahadi-FD.py
 
 
-# SCREENSHOTS
+# SCREENSHOTS:
 ![](https://user-images.githubusercontent.com/79738922/149528707-851c7105-a9c3-4ddc-8d02-b018a98903fa.jpg)
 
 ## Find Me on :
