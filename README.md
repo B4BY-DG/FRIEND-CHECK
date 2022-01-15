@@ -24,7 +24,9 @@ $ python2 Mahadi-FD.py
 
 
 # SCREENSHOTS
-![](https://user-images.githubusercontent.com/79738922/149528707-851c7105-a9c3-4ddc-8d02-b018a98903fa.jpg)
+
+![960CB92C-4410-429C-BFCD-F9EEDA644677](https://user-images.githubusercontent.com/79738922/149622135-e6539ebb-419b-4c02-929f-30928f672b6c.jpeg)
+
 
 ## Find Me on :
 
