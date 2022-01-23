@@ -3,6 +3,7 @@
 # coding by Mahadi Hasan
 # Note : jangan di ubah lagi! nanti error, script udah enak
 # Open source code team | ngotak dikit cok jangan jual di perjual belikan 
+# Nice tool
 
 Hj = '\x1b[1;92m' 
 Mt = '\x1b[0m' 
